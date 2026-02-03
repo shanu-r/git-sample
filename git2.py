@@ -1,0 +1,2 @@
+xyz=abc
+print(xyz)

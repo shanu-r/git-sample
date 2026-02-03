@@ -1,0 +1,4 @@
+x=a
+y=b
+z=a+b
+print(z)
